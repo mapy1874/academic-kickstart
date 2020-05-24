@@ -4,3 +4,6 @@
 # Hugo
 resources/
 public/
+
+
+git submodule add -f -b master https://github.com/mapy1874/mapy1874.github.io.git public
