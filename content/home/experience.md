@@ -17,28 +17,43 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Undergraduate Research Assistant"
+  company = "UNC Department of Computer Science"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Chapel Hill, NC"
+  date_start = "2020-05-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """  
+  * Working on eye-tracking for people with ALS
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Peer Tutor"
+  company = "UNC Learning Center"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chapel Hill, NC"
+  date_start = "2020-01-10"
+  date_end = "2020-05-01"
+  description = """
+  * Provided one-on-one help to drop-in students in OOP and Design Pattern, Discrete Math, and Introductory Statistics
+  """
+
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Huazhong University of Science and Technology"
+  company_url = ""
+  location = "Wuhan, China"
+  date_start = "2018-03-10"
+  date_end = "2019-02-01"
+  description = """  
+  Advisor: Prof. Li Li & Ming Xu
+  * Proposed a method for quantifying dispersion of CNTs and improved its running time from O(n!) to O(n^3) in MATLAB
+  * Fabricated 100+ carbon nanotube/epoxy composites and tested their mechanical properties by SEM, DMA
+  * Researched production and mechanical performance of novel materials (e.g. carbon nanotubes)
+  * Simulated the impact properties of novel composite materials (CNT@Ni foam) in Abaqus
+  """
+
 
 +++

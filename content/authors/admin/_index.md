@@ -31,7 +31,7 @@ education:
     institution: The University of North Carolina at Chapel Hill
     year: 2019-2022
   - course: Mechatronics (transferred out)
-    institution: Huazhong University of Science and Technology
+    institution: Huazhong University of Science and Technology, Wuhan, China
     year: 2017-2019
 
 # Social/Academic Networking
@@ -48,6 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mapy1874
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mapy/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am passionate about software engineering and data science
