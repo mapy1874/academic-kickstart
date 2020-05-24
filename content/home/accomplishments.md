@@ -20,16 +20,17 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "SMART Scholarship"
-  organization = "UNC Chapel Hill"
+  url = "https://smartresearch.web.unc.edu/"
+  organization = "UNC Office of Undergraduate Research"
   date_start = "2020-05-23"
   date_end = ""
   description = "A $3000 award for transfer students to conduct summer research"
 
 [[item]]
   organization = "deeplearning.ai"
-  organization_url = "https://www.coursera.org"
+  organization_url = ""
   title = "Deep Learning Specialization"
-  url = ""
+  url = "https://www.coursera.org/specializations/deep-learning"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/CXFSA3S7VT97"
   date_start = "2020-05-19"
   date_end = ""
