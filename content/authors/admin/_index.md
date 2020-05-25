@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Patrick Ma
+title: Patrick Ma (马培元)
 
 # Username (this should match the folder name)
 authors:
