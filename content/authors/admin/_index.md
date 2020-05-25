@@ -24,11 +24,12 @@ bio: I am passionate about software engineering and data science
 interests:
 - Computer Vision
 - Full-Stack Development
+- Data Analysis
 
 education:
   courses:
   - course: B.S. in Computer Science and Statistics and Analytics
-    institution: The University of North Carolina at Chapel Hill
+    institution: The University of North Carolina, Chapel Hill, NC
     year: 2019-2022
   - course: Mechatronics (transferred out)
     institution: Huazhong University of Science and Technology, Wuhan, China
@@ -62,9 +63,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-I am passionate about software engineering and data science
+I am a sophomore student at [Dept. of Computer Science](https://cs.unc.edu), University of North Carolina at Chapel Hill, where I conduct research under the supervision of [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows. As a software engineering and data science enthusiast, I am actively seeking 2021 summer internship opportunities.
