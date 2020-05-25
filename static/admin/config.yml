@@ -73,6 +73,10 @@ collections:
         name: "user_groups"
         required: false
         widget: "list"
+      - label: "Background"
+        name: "background"
+        required: false
+        widget: "image"
   - name: posts
     label: Posts
     label_singular: Post
