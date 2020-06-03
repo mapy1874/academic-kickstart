@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sophomore @ UNC Chapel Hill
+role: Junior @ UNC Chapel Hill
 
 # Organizations/Affiliations
 organizations:
@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I am a sophomore student at [Dept. of Computer Science](https://cs.unc.edu), University of North Carolina at Chapel Hill, where I conduct research under the supervision of [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows. As a software engineering and data science enthusiast, I am actively seeking 2021 summer internship opportunities.
+I am a junior student at [Dept. of Computer Science](https://cs.unc.edu), University of North Carolina at Chapel Hill, where I conduct research under the supervision of [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows. As a software engineering and data science enthusiast, I am actively seeking 2021 summer internship opportunities.
