@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: 
 
 # View.
 #   1 = List
@@ -12,5 +12,3 @@ header:
   caption: ""
   image: ""
 ---
-
-hello
