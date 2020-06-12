@@ -1,5 +1,5 @@
 ---
-title: How to Contribute to an Eye Tracking Research
+title: How to Contribute to This Study on Eye Tracking
 
 # View.
 #   1 = List
@@ -41,18 +41,19 @@ Visit the data collection website [here](https://patrickma.me/eye-tracking/colle
 
 4. **Please keep the distance between your head and the webcam constant during the process. If possible put a book or box under you chin to fix your head pose.** 
 
-5. Move your eye gaze (without adjusting your head pose) to the blue butterfly on the screen now, press the arrow under it on your keyboard. After pressing the correct key, the last collected example will be shown on the upperright corner. Your eye data will be 
+5. Move your eye gaze (without adjusting your head pose) to the blue butterfly on the screen now, press the arrow under it on your keyboard. After pressing the correct key, the last collected example will be shown on the upperright corner. Your eye data will be sent to our database automatically.
 
-6. If your are not satisfied with the last example you collected (e.g. closed eyes, blurred photo), press the space key to delete it. You can see the last but one example you collected on the upperright corner. If not satisfied with that, either, pressing the space key again to delete it. You may even delete more examples in this way.
+6. If your are not satisfied with the last example you collected (e.g. closed eyes, blurred photo), press the space key to delete it. You may even delete more examples by hitting the space key continuously.
 
-7. Continue to collect examples by looking at the butterfly and press the correct key. We would like to collect about 100 examples.
+7. Continue to collect examples by looking at the butterfly and press the correct key. We would like to collect about 100+ examples from each participant.
 
 Here is a video walkthrough of the collection process.
 
 {{< youtube 0N82ysnwnPQ >}}
 
 
+
 ### End 
 
-**Thank you for providing data points for our research in helping physically challenged people!** Please kindly reach out to me at `{my initials} at unc dot edu` if you have questions.
+**Thank you for providing data points for our research in helping physically challenged people!** Please kindly reach out to me at `{my initials} at unc dot edu` if you have questions or feedbacks.
 
