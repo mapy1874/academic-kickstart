@@ -12,7 +12,6 @@ header:
   caption: ""
   image: ""
 ---
-
 **You can help physically challenged people in 5 minutes!**
 
 ## Who We Are
@@ -36,15 +35,24 @@ Visit the data collection website [here](https://patrickma.me/eye-tracking/colle
 
    >  If it shows *Your browser does not seem to support getUserMedia*, please make sure you use Chrome and input the URL with the *https://* prefix.
 
-2. After you see yourself in the upper left video at the website, make sure your FULL face is well lighted and can be seen clearly. Please keep the distance between your head and the webcam constant during the process. The website will track your face landmarks in a few second!
+2. After you see yourself in the upper left video at the website, make sure your FULL face is well lighted and can be seen clearly. The website will track your face landmarks in a few second!
+
 3. Well done! Now your face is being detected by the state-of-art technology.  There should be a rectangle around your eyes. If its position is not correct, please change your head pose.
-4. Move your eye gaze (without adjusting your head pose) to the blue butterfly on the screen now, press the arrow under it on your keyboard. After pressing the correct key, the last collected example will be shown on the upperright corner. Your eye data will be 
-5. If your are not satisfied with the last example you collected (e.g. closed eyes, blurred photo), press the space key to delete it. You can see the last but one example you collected on the upperright corner. If not satisfied with that, either, pressing the space key again to delete it. You may even delete more examples in this way.
-6. Continue to collect examples by looking at the butterfly and press the correct key. We would like to collect about 100 examples.
+
+4. **Please keep the distance between your head and the webcam constant during the process. If possible put a book or box under you chin to fix your head pose.** 
+
+5. Move your eye gaze (without adjusting your head pose) to the blue butterfly on the screen now, press the arrow under it on your keyboard. After pressing the correct key, the last collected example will be shown on the upperright corner. Your eye data will be 
+
+6. If your are not satisfied with the last example you collected (e.g. closed eyes, blurred photo), press the space key to delete it. You can see the last but one example you collected on the upperright corner. If not satisfied with that, either, pressing the space key again to delete it. You may even delete more examples in this way.
+
+7. Continue to collect examples by looking at the butterfly and press the correct key. We would like to collect about 100 examples.
 
 Here is a video walkthrough of the collection process.
 
-<!-- {{< youtube fe7fDiWehjM >}} -->
+{{< youtube 0N82ysnwnPQ >}}
+
+
+### End 
 
 **Thank you for providing data points for our research in helping physically challenged people!** Please kindly reach out to me at `{my initials} at unc dot edu` if you have questions.
 
