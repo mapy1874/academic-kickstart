@@ -12,6 +12,7 @@ header:
   caption: ""
   image: ""
 ---
+
 **You can help physically challenged people in 5 minutes!**
 
 ## Who We Are
@@ -35,13 +36,13 @@ Visit the data collection website [here](https://patrickma.me/eye-tracking/colle
 
    >  If it shows *Your browser does not seem to support getUserMedia*, please make sure you use Chrome and input the URL with the *https://* prefix.
 
-2. After you see yourself in the upper left video at the website, make sure your FULL face is well lighted and can be seen clearly. The website will track your face landmarks in a few second!
+2. After you see yourself in the upper left video at the website, make sure your FULL face is well lit and can be seen clearly. The website will track your face landmarks in a few seconds!
 
 3. Well done! Now your face is being detected by the state-of-art technology.  There should be a rectangle around your eyes. If its position is not correct, please change your head pose.
 
 4. **Please keep the distance between your head and the webcam constant during the process. If possible put a book or box under you chin to fix your head pose.** 
 
-5. Move your eye gaze (without adjusting your head pose) to the blue butterfly on the screen now, press the arrow under it on your keyboard. After pressing the correct key, the last collected example will be shown on the upperright corner. Your eye data will be sent to our database automatically.
+5. Move your eye gaze (without adjusting your head pose) to the blue butterfly on the screen, and press the arrow around it on your keyboard. After pressing the correct key, the last collected example will be shown on the upperright corner. Your eye data will be sent to our database automatically.
 
 6. If your are not satisfied with the last example you collected (e.g. closed eyes, blurred photo), press the space key to delete it. You may even delete more examples by hitting the space key continuously.
 
@@ -55,5 +56,5 @@ Here is a video walkthrough of the collection process.
 
 ### End 
 
-**Thank you for providing data points for our research in helping physically challenged people!** Please kindly reach out to me at `{my initials} at unc dot edu` if you have questions or feedbacks.
+**Thank you for providing data points for our research in helping physically challenged people!** Please kindly reach out to me [here](mailto:pm@unc.edu) if you have questions or feedbacks.
 
