@@ -19,14 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Learning Assistant"
+  company = "UNC Department of Computer Science"
+  company_url = ""
+  location = "Chapel Hill, NC"
+  date_start = "2020-08-10"
+  date_end = ""
+  description = """  
+  * Developing new features for COMP 550 (Algorithms) websites using **Bottle** 
+  * Holding office hours 6 hours/week to answer questions about COMP 550
+  """
+
+[[experience]]
   title = "Undergraduate Research Assistant"
   company = "UNC Department of Computer Science"
   company_url = ""
   location = "Chapel Hill, NC"
   date_start = "2020-05-01"
-  date_end = ""
+  date_end = "2020-08-20"
   description = """  
-  * Working on eye-tracking for people with ALS
+  *  Conducted research on eye tracking under the supervision of Prof. Gary Bishop
   """
 
 [[experience]]
@@ -48,7 +60,6 @@ date_format = "Jan 2006"
   date_start = "2018-03-10"
   date_end = "2019-02-01"
   description = """  
-  Advisor: Prof. Li Li & Ming Xu
   * Proposed a method for quantifying dispersion of CNTs and improved its running time from O(n!) to O(n^3) in MATLAB
   * Fabricated 100+ carbon nanotube/epoxy composites and tested their mechanical properties by SEM, DMA
   * Researched production and mechanical performance of novel materials (e.g. carbon nanotubes)

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Projects"
+title = "Selected Projects"
 subtitle = ""
 
 # Date format
@@ -17,6 +17,31 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "UNC SMART Research"
+  organization_url = "https://smartresearch.web.unc.edu/"
+  title = "Eye Tracking for People with ALS"
+  date_start = "2020-05-01"
+  date_end = "2020-08-20"
+  description = """
+  * Developed a cheap eye tracking solution with logistic regression, CNN, SVM, transfer learning on collected data 
+  *	This isn’t a general eye tracking solution as I collected low-resolution data captured by self-developed [websites](https://patrickma.me/eye-collection/)
+  *	Achieved an average test score of 0.955+ on 1000+ collected data using scikit-learn and Keras
+  """
+
+[[item]]
+  organization = "Personal Project"
+  organization_url = ""
+  title = "Mock MOOC"
+  date_start = "2020-07-26"
+  date_end = "2020-10-01"
+  description = """
+  * Developing an online video course platform using **SpringCloud**, **Vue CLI**, **MyBatis**
+  * Developed an admin website enables the user to perform CRUD operations on databases
+  * Used **FreeMarker** template engine generating codes for service, controller, dto, and vue in 2 minutes
+  """
+
 [[item]]
   organization = "STOR 565"
   organization_url = ""
@@ -46,7 +71,7 @@ date_format = "Jan 2006"
   date_start = "2020-01-01"
   date_end = "2020-02-02"
   description = """
-  * Developed a social web app that enables users the ability to interact with others using **Django**, **Bootstrap**, **CSS**, and **JavaScript**
+  * Implemented a webapp to allow users to create profiles, post articles and comments using **Django** and **SQLite** for data storage
   """
 
 [[item]]
