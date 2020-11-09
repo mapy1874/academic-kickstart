@@ -29,7 +29,7 @@ projects: []
 ---
 ## Question
 
-Give a non-negative random variable $X$, and positive integers $n$, $m$, show that if $n \le m $, $[E(X^{n})]^{\frac{1}{n}} \le [E(X^{m})]^{\frac{1}{m}}$.
+Given a non-negative random variable $X$, and positive integers $n$, $m$, show that if $n \le m $, $[E(X^{n})]^{\frac{1}{n}} \le [E(X^{m})]^{\frac{1}{m}}$.
 
 ### Analysis: 
 
