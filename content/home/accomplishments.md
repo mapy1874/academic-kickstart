@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   organization = "UNC Office of Undergraduate Research"
   date_start = "2020-05-23"
   date_end = ""
-  description = "A $3000 award for transfer students to conduct summer research"
+  description = "A scholarship for transfer students to conduct summer research"
 
 [[item]]
   organization = "deeplearning.ai"

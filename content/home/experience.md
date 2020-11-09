@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_start = "2020-08-10"
   date_end = ""
   description = """  
-  * Developing new features for COMP 550 (Algorithms) websites using **Bottle** 
-  * Holding office hours 6 hours/week to answer questions about COMP 550
+  * Reviewed autograded homework&exams and gave 30+ suggestions on system bugs, wording improvement, etc/
+  * Held office hours 6 hours/week to answer questions about COMP 550
   """
 
 [[experience]]

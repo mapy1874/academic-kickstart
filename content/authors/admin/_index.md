@@ -67,4 +67,4 @@ email: ""
 # - Visitors
 ---
 
-I am a junior student at [Dept. of Computer Science](https://cs.unc.edu), University of North Carolina at Chapel Hill. Currently, I am a Learning Assistant for Algorithms&Analysis under the supervision of [Prof. John Majikes](https://cs.unc.edu/people/john-majikes/). Before that, I conducted research on eye tracking under the supervision of [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows. As a software engineering and data science enthusiast, I am actively seeking 2021 summer internship opportunities.
+I am a junior student at [Dept. of Computer Science](https://cs.unc.edu), University of North Carolina at Chapel Hill. Currently, I am a Learning Assistant for Algorithms&Analysis under the supervision of [Prof. John Majikes](https://cs.unc.edu/people/john-majikes/). Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows. As a software engineering and data science enthusiast, I am actively seeking 2021 summer internship opportunities.
