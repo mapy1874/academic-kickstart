@@ -26,8 +26,9 @@ date_format = "Jan 2006"
   date_start = "2020-08-10"
   date_end = ""
   description = """  
-  * Reviewed autograded homework&exams and gave 30+ suggestions on system bugs, wording improvement, etc/
-  * Held office hours 6 hours/week to answer questions about COMP 550
+  * Reviewed frontend code, auto-graded exams and gave 30+ suggestions on software bugs, wording improvements, etc
+  *	Designed a schema for recording the student behavior in exams and analyzed the data using pandas, matplotlib
+  *	Held 6 drop-in office hours per week to guide students with problem sets and understanding concepts in Algorithms
   """
 
 [[experience]]

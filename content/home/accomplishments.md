@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "AWS Certified Solutions Architect – Associate"
+  organization = "Amazon Web Services"
+  certificate_url = "https://www.youracclaim.com/badges/4eab991e-0293-486a-8342-16540e837bbf?source=linked_in_profile"
+  date_start = "2020-12-28"
+  date_end = "2023-12-28"
+  description = ""
+
+[[item]]
   title = "SMART Scholarship"
   url = "https://smartresearch.web.unc.edu/"
   organization = "UNC Office of Undergraduate Research"

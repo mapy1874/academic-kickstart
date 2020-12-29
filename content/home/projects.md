@@ -25,9 +25,11 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = "2020-08-20"
   description = """
-  * Developed a cheap eye tracking solution with logistic regression, CNN, SVM, transfer learning on collected data 
-  *	This isn’t a general eye tracking solution as I collected low-resolution data captured by self-developed [websites](https://patrickma.me/eye-collection/)
-  *	Achieved an average test score of 0.955+ on 1000+ collected data using scikit-learn and Keras
+  * Developed a low-cost eye tracking solution with logistic regression, CNN, SVM, transfer learning on collected data
+  * Developed a unique [website](https://patrickma.me/eye-collection/) in **face-api.js** to enable users to capture low-resolution eye gaze data within a single press
+  * Achieved an average test score of 0.955+ on 1000+ collected data using **scikit-learn** and **Keras**
+  * Researched users’ feedback and developed a website for querying and visualizing data to filter out corrupted data
+  * Perfected the demo website in **Tensorflow.js** to enable users to see the eye tracking results after training
   """
 
 [[item]]
