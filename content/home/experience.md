@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -39,19 +39,14 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = "2020-08-20"
   description = """  
-  *  Conducted research on eye tracking under the supervision of Prof. Gary Bishop
+  Eye Tracking for People with ALS
+  * Developed a low-cost eye tracking solution with logistic regression, CNN, SVM, transfer learning on collected data
+  * Developed a unique [website](https://patrickma.me/eye-collection/) in **face-api.js** to enable users to capture low-resolution eye gaze data within a single press
+  * Achieved an average test score of 0.955+ on 1000+ collected data using **scikit-learn** and **Keras**
+  * Researched users’ feedback and developed a website for querying and visualizing data to filter out corrupted data
+  * Perfected the demo website in **Tensorflow.js** to enable users to see the eye tracking results after training
   """
 
-[[experience]]
-  title = "Peer Tutor"
-  company = "UNC Learning Center"
-  company_url = ""
-  location = "Chapel Hill, NC"
-  date_start = "2020-01-10"
-  date_end = "2020-05-01"
-  description = """
-  * Provided one-on-one help to drop-in students in OOP and Design Pattern, Discrete Math, and Introductory Statistics
-  """
 
 [[experience]]
   title = "Undergraduate Research Assistant"
