@@ -18,6 +18,18 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "COMP 426"
+  organization_url = ""
+  title = "ApparelUNC"
+  date_start = "2020-09-10"
+  date_end = "2020-11-27"
+  description = """
+  *	Designed and implemented a webapp for helping UNC fans choosing the best UNC outfit using the MERN stack
+  *	Constructed database with MongoDB, developed interfaces for CRUD functions in Express, and delopyed the app on Heroku
+  *	Designed and improved UI with Bootstrap and reCAPTCHA so that users have better CRUD experience
+  *	Managed the project using SCRUM in a team of 3 and wrote detailed documentation
+  """
 
 [[item]]
   organization = "Personal Project"
@@ -53,15 +65,6 @@ date_format = "Jan 2006"
   *	Contributed codes and analysis for sentiment analysis, PCA, EDA, visualization, and Ordinal LogitReg
   """
 
-[[item]]
-  title = "Simple Social Site"
-  url = ""
-  organization = "Personal Project"
-  date_start = "2020-01-01"
-  date_end = "2020-02-02"
-  description = """
-  * Implemented a webapp to allow users to create profiles, post articles and comments using **Django** and **SQLite** for data storage
-  """
 
 [[item]]
   organization = "COMP 401 Hackathon"
@@ -72,14 +75,5 @@ date_format = "Jan 2006"
   Best Hack for Water Gun Racing Game
   * Used **Java** Swing to create a challenging water gun racing-like game by randomization and punishment for shooting mistakes
   * Collaborated with 2 teammates using **Git** for version control
-  """
-
-[[item]]
-  title = "Simple Instagram Android Application"
-  organization = "Personal Project"
-  date_start = "2019-11-01"
-  description = """
-  * Developed an Instagram-like app in **Java** that supports user login, viewing and posting with photos using **Parse**
-  * Utilized Fragments and Bottom Navigation View to achieve navigation between posts, capture, and profile tabs
   """
 +++
