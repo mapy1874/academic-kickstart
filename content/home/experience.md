@@ -55,11 +55,9 @@ date_format = "Jan 2006"
   location = "Wuhan, China"
   date_start = "2018-03-10"
   date_end = "2019-02-01"
-  description = """  
-  * Proposed a method for quantifying dispersion of CNTs and improved its running time from O(n!) to O(n^3) in MATLAB
-  * Fabricated 100+ carbon nanotube/epoxy composites and tested their mechanical properties by SEM, DMA
-  * Researched production and mechanical performance of novel materials (e.g. carbon nanotubes)
-  * Simulated the impact properties of novel composite materials (CNT@Ni foam) in Abaqus
+  description = """ 
+  * Researched 50+ papers on quantifying dispersion of CNTs in liquids and proposed a new algorithm for quantification
+  * Improved runtime complexity of the algorithm from O(n!) to O(n^3) and implemented it in MATLAB
   """
 
 

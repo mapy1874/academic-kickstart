@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-09-10"
   date_end = "2020-11-27"
   description = """
-  *	Designed and implemented a webapp for helping UNC fans choosing the best UNC outfit using the MERN stack
+  *	Designed and implemented a [webapp](https://apparelunc.herokuapp.com/) for helping UNC fans choosing the best UNC outfit using the MERN stack
   *	Constructed database with MongoDB, developed interfaces for CRUD functions in Express, and delopyed the app on Heroku
-  *	Designed and improved UI with Bootstrap and reCAPTCHA so that users have better CRUD experience
+  *	Designed and improved UI with Bootstrap and used reCAPTCHA to secure the website
   *	Managed the project using SCRUM in a team of 3 and wrote detailed documentation
   """
 

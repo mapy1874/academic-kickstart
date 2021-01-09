@@ -23,6 +23,7 @@ bio: I am passionate about software engineering and data science
 
 interests:
 - Full-Stack Development
+- Cloud Computing
 - Machine Learning
 
 education:
