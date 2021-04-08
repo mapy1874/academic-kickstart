@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   *	Designed and implemented a [webapp](https://apparelunc.herokuapp.com/) for helping UNC fans choosing the best UNC outfit using the MERN stack
   *	Constructed database with MongoDB, developed interfaces for CRUD functions in Express, and delopyed the app on Heroku
-  *	Designed and improved UI with Bootstrap and used reCAPTCHA to secure the website
+  *	Designed and improved UI with Bootstrap and used reCAPTCHA to protect the website
   *	Managed the project using SCRUM in a team of 3 and wrote detailed documentation
   """
 

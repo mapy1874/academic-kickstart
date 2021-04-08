@@ -9,14 +9,15 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Experience"
+  url = "#experience"
   weight = 20
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
+  name = "Projects"
+  url = "#projects"
   weight = 30
+
 
 [[main]]
   name = "Posts"
@@ -32,5 +33,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "Resume"
-  url = "files/Peiyuan_Ma_resume_093020.pdf"
+  url = "files/PMa_resume_040821.pdf"
   weight = 70
