@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Computer Science and Statistics and Analytics
-    institution: The University of North Carolina, Chapel Hill, NC
-    year: 2019-2022
+  - course: B.S. Computer Science, B.S. Statistics, Phi Beta Kappa
+    institution: University of North Carolina, Chapel Hill, NC
+    year: 2019-2021
   - course: Mechatronics (transferred out)
     institution: Huazhong University of Science and Technology, Wuhan, China
     year: 2017-2019
@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I am a junior student at [Dept. of Computer Science](https://cs.unc.edu), University of North Carolina at Chapel Hill. Currently, I am a Learning Assistant for Algorithms&Analysis under the supervision of [Prof. John Majikes](https://cs.unc.edu/people/john-majikes/). Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows. As a software engineering and data science enthusiast, I am actively seeking 2021 summer internship opportunities.
+I am an incoming tech analyst intern at Creat Suisse this summer. As a junior at University of North Carolina at Chapel Hill, I am a Learning Assistant for Algorithms&Analysis under the supervision of [Prof. John Majikes](https://cs.unc.edu/people/john-majikes/). Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows. 

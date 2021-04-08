@@ -19,7 +19,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "COMP 426"
+  organization = "COMP524"
+  organization_url = ""
+  title = "miniLisp Interpreter"
+  date_start = "2021-01-20"
+  date_end = "2021-04-02"
+  description = """
+  * Implemented an environment-passing, OOP interpreter for a lisp-style language from scratch in Racket
+  *	Constructed the recursive descent parser based on homoiconicity of Racket and built the lexer using regular expression
+  *	Developed lexical scope, procedure, instantiation, inheritance, polymorphism, etc by passing and mutating environment
+  """
+
+[[item]]
+  organization = "COMP431"
+  organization_url = ""
+  title = "FTP Client/Server"
+  date_start = "2021-01-15"
+  date_end = "2021-03-07"
+  description = """
+  *	Implemented a FTP Client/Server System that supports login, file transfer in Python
+  *	Developed common commands (USER, PASS, SYST, TYPE, PORT, RETR, QUIT) and ensured server’s robustness
+  *	Achieved C/S communication with TCP socket and maximized client’s fault-tolerance
+  """
+
+[[item]]
+  organization = "COMP426"
   organization_url = ""
   title = "ApparelUNC"
   date_start = "2020-09-10"

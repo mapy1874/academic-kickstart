@@ -26,9 +26,10 @@ date_format = "Jan 2006"
   date_start = "2020-08-10"
   date_end = ""
   description = """  
-  * Reviewed frontend code, auto-graded exams and gave 30+ suggestions on software bugs, wording improvements, etc
-  *	Designed a schema for recording the student behavior in exams and analyzed the data using pandas, matplotlib
-  *	Held 6 drop-in office hours per week to guide students with problem sets and understanding concepts in Algorithms
+  *	Reviewed frontend code, auto-graded exams and gave 60+ accepted suggestions on software bugs, wording improvements, etc
+  *	Collected 200+ students’ focus behavior in assignments and analyzed the data using pandas, matplotlib
+  * Held 6 drop-in office hours per week to guide students with problem sets and understanding concepts in Algorithms
+
   """
 
 [[experience]]
@@ -46,20 +47,5 @@ date_format = "Jan 2006"
   * Researched users’ feedback and developed a website for querying and visualizing data to filter out corrupted data
   * Perfected the demo website in **Tensorflow.js** to enable users to see the eye tracking results after training
   """
-
-
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Huazhong University of Science and Technology"
-  company_url = ""
-  location = "Wuhan, China"
-  date_start = "2018-03-10"
-  date_end = "2019-02-01"
-  description = """ 
-  * Researched 50+ papers on quantifying dispersion of CNTs in liquids and proposed a new algorithm for quantification
-  * Improved runtime complexity of the algorithm from O(n!) to O(n^3) and implemented it in MATLAB
-  """
-
-
 +++
 

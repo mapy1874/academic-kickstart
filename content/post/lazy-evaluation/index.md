@@ -71,7 +71,7 @@ In other words, call-by-name is non-memoized lazy evaluation, while call-by-need
 With call-by-need, we could implement a stream abstraction. A stream object is a pair-like object, except the cdr part is not evaluated until needed. Thus, the data structure may be infinite! 
 
 <center>
-  <img src="/Users/patrick/Library/Application Support/typora-user-images/Screen Shot 2021-02-20 at 5.41.46 PM.png">
+  <img src="stream_object.png">
   <figcaption>A stream object (from <a href="https://www.youtube.com/watch?v=vAxgBQ0sA00&list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF&index=19&ab_channel=LeonByford">here</a>)</figcaption>
 </center>
 
