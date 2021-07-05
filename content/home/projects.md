@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+[[item]]
+  organization = "COMP520"
+  organization_url = ""
+  title = "miniJava Compiler"
+  date_start = "2021-01-20"
+  date_end = "2021-05-02"
+  description = """
+  * Built a compiler for a non-trivial subset of Java in 5000+ lines of Java from scratch
+  * Constructed AST by developing recursive descent parser and achieved operator precedence by stratifying grammar
+  * Implemented identification, type checking, code generation in visitor pattern and generated code for stack machine
+  """
+
 [[item]]
   organization = "COMP524"
   organization_url = ""
@@ -54,41 +68,6 @@ date_format = "Jan 2006"
   *	Designed and improved UI with Bootstrap and used reCAPTCHA to protect the website
   *	Managed the project using SCRUM in a team of 3 and wrote detailed documentation
   """
-
-[[item]]
-  organization = "Personal Project"
-  organization_url = ""
-  title = "Mock MOOC"
-  date_start = "2020-07-26"
-  date_end = "2020-10-01"
-  description = """
-  * Developing an online video course platform using **SpringCloud**, **Vue CLI**, **MyBatis**
-  * Developed an admin website enables the user to perform CRUD operations on databases
-  * Used **FreeMarker** template engine generating codes for service, controller, dto, and vue in 2 minutes
-  """
-
-[[item]]
-  organization = "STOR 565"
-  organization_url = ""
-  title = "Insight into NBA Winning Rate"
-  date_start = "2020-04-19"
-  description = """
-  * Applied Gradient Boosting, LASSO, PCA to predict, classify winning percentage of NBA teams in **R**
-  * Achieved a 93%+ classifcation accuracy and wrote a 12-page report with two other teammates
-  """
-
-
-[[item]]
-  title = "Amazon Customer Reviews Analysis"
-  organization = "The Interdisciplinary Contest in Modeling"
-  certificate_url = "files/MCM2020_Meritorious_Winner.pdf"
-  date_start = "2020-03-01"
-  description = """
-  Meritorious Winner (top 7%)
-  *	Analyzed patterns of Amzon Customer Reviews in **R** and prepared a 19-page report with two teammates
-  *	Contributed codes and analysis for sentiment analysis, PCA, EDA, visualization, and Ordinal LogitReg
-  """
-
 
 [[item]]
   organization = "COMP 401 Hackathon"

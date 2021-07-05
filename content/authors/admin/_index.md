@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior @ UNC Chapel Hill
+role: Senior @ UNC Chapel Hill
 
 # Organizations/Affiliations
 organizations:
@@ -68,4 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I am an incoming tech analyst intern at Creat Suisse this summer. As a junior at University of North Carolina at Chapel Hill, I am a Learning Assistant for Algorithms&Analysis under the supervision of [Prof. John Majikes](https://cs.unc.edu/people/john-majikes/). Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows. 
+I am currently a tech analyst intern at Creat Suisse, working on Credit eTrading. As a senior at University of North Carolina at Chapel Hill, I am a Learning Assistant for Algorithms&Analysis under the supervision of [Prof. John Majikes](https://cs.unc.edu/people/john-majikes/). Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows.

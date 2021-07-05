@@ -19,6 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Technology Analyst Intern"
+  company = "Credit Suisse"
+  company_url = ""
+  location = "Raleigh, NC"
+  date_start = "2021-05-24"
+  date_end = "2021-08-13"
+  description = """  
+  * Developing a credit trading simulator mimicing behaviors of Bloomberg venue in .NET Framework
+  * Developing a NLP solution quantifying public’s opinions of companies using data from news and social media
+  """
+
+[[experience]]
   title = "Learning Assistant"
   company = "UNC Department of Computer Science"
   company_url = ""
@@ -29,7 +41,6 @@ date_format = "Jan 2006"
   *	Reviewed frontend code, auto-graded exams and gave 60+ accepted suggestions on software bugs, wording improvements, etc
   *	Collected 200+ students’ focus behavior in assignments and analyzed the data using pandas, matplotlib
   * Held 6 drop-in office hours per week to guide students with problem sets and understanding concepts in Algorithms
-
   """
 
 [[experience]]
