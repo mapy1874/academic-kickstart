@@ -26,9 +26,11 @@ date_format = "Jan 2006"
   date_start = "2021-05-24"
   date_end = "2021-08-13"
   description = """  
-  * Developing a credit trading simulator mimicing behaviors of Bloomberg venue in .NET Framework
-  * Developing a NLP solution quantifying public’s opinions of companies using data from news and social media
-  """
+  * Rewrote a trade simulator mimicking behaviors of Bloomberg venue, which could save 20+ Bloomberg licenses
+  * Developed new GUI using **WPF, MVVM**, Ninject and created message generators in factory, builder patterns
+  * Customized backend endpoint for simulator in **.NET Framework** and connected client-server with message queue
+  * Created comprehensive unit tests with Nunit, Moq, and utilized collaboration tools like Jira and Git  
+"""
 
 [[experience]]
   title = "Learning Assistant"

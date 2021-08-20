@@ -68,4 +68,6 @@ email: ""
 # - Visitors
 ---
 
-I am currently a tech analyst intern at Creat Suisse, working on Credit eTrading. As a senior at University of North Carolina at Chapel Hill, I serve as a Learning Assistant for Algorithms&Analysis under the supervision of [Prof. John Majikes](https://tarheels.live/johnmajikes/). Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows.
+I am a Computer Science senior graduating this December at UNC Chapel Hill. I serve as a full stack developer at [RENCI](https://renci.org/) this fall besides being a three-semester Learning Assistant of Algorithms&Analysis. During 2021 summer, I developed trading software at [Credit Suisse](https://www.credit-suisse.com/) as a tech analyst intern. Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows.
+
+**I am actively seeking 2022 full-time software engineer opportunities.**
