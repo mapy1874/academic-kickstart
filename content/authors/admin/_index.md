@@ -68,6 +68,6 @@ email: ""
 # - Visitors
 ---
 
-I am a Computer Science senior graduating this December at UNC Chapel Hill. I serve as a software developer at [RENCI](https://renci.org/) this fall besides being a three-semester Learning Assistant of Algorithms&Analysis. During 2021 summer, I developed trading software at [Credit Suisse](https://www.credit-suisse.com/) as a tech analyst intern. Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows.
+I am a Computer Science senior graduating this December at UNC Chapel Hill. I serve as a software developer at [RENCI](https://renci.org/) this fall besides being a Learning Assistant of COMP421 (Databases). During 2021 summer, I developed trading software at [Credit Suisse](https://www.credit-suisse.com/) as a software engineer intern. Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows.
 
 **I am actively seeking 2022 full-time software engineer opportunities.**
