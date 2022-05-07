@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior @ UNC Chapel Hill
+role: Software Engineer @ Quora
 
 # Organizations/Affiliations
 organizations:
@@ -42,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pm@unc.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mapeiyuan
+  link: 'mailto:peiyuan.ma@outlook.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/mapy1874
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mapy/
+- icon: quora
+  icon_pack: fab
+  link: https://www.quora.com/profile/Patrick-Ma-72
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +68,4 @@ email: ""
 # - Visitors
 ---
 
-I am a Computer Science senior graduating this December at UNC Chapel Hill. I serve as a software developer at [RENCI](https://renci.org/) this fall besides being a Learning Assistant of COMP421 (Databases). During 2021 summer, I developed trading software at [Credit Suisse](https://www.credit-suisse.com/) as a software engineer intern. Before that, I conducted research on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb/). I enjoy a good Netflix binge but can also be found on fountain pen shows.
-
-**I am actively seeking 2022 full-time software engineer opportunities.**
+I am a Software Engineer at [Quora](https://www.quora.com/), working on monetization products. During my undergraduate at UNC Chapel Hill, I served as a learning assistant of 2 advanced CS courses, and a research assistant on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb). I developed trading software at [Credit Suisse](https://www.credit-suisse.com/) as a software engineer intern in 2021 summer.

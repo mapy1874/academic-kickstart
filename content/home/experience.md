@@ -19,12 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Software Engineer"
+  company = "Quora"
+  company_url = "https://www.quora.com/"
+  location = "Mountain View, CA"
+  date_start = "2022-03-14"
+  date_end = ""
+  description = """  
+  Working on [Ads Product](https://q.quoraforbusiness.com/business) and [Subscriptions](https://www.quora.com/quoraplus)
+  """
+
+[[experience]]
   title = "Software Engineer Intern"
   company = "Credit Suisse"
-  company_url = ""
   location = "Raleigh, NC"
   date_start = "2021-05-24"
   date_end = "2021-08-13"
+  company_url = "https://www.credit-suisse.com/"
   description = """  
   Built a mock client for testing internal trading pipelines at Credit eTrading Team
   """
@@ -37,7 +48,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Learning Assistant"
   company = "UNC Department of Computer Science"
-  company_url = ""
+  company_url = "https://cs.unc.edu/"
   location = "Chapel Hill, NC"
   date_start = "2020-08-10"
   date_end = "2021-12-10"
@@ -54,7 +65,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Undergraduate Research Assistant"
   company = "UNC Department of Computer Science"
-  company_url = ""
+  company_url = "https://cs.unc.edu/"
   location = "Chapel Hill, NC"
   date_start = "2020-05-01"
   date_end = "2020-08-20"
