@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2022-03-14"
   date_end = ""
   description = """  
-  Working on [Ads Product](https://q.quoraforbusiness.com/business) and [Subscriptions](https://www.quora.com/quoraplus)
+  Working on ads moderation, programmatic ads
   """
 
 [[experience]]
