@@ -22,9 +22,9 @@ bio: I am passionate about software engineering and data science
 
 
 interests:
+- iOS Development
 - Full-Stack Development
-- Cloud Computing
-- Machine Learning
+- Generative AI
 
 education:
   courses:
@@ -68,4 +68,6 @@ email: ""
 # - Visitors
 ---
 
-I am a Software Engineer at [Quora](https://www.quora.com/), working on monetization products. During my undergraduate at UNC Chapel Hill, I served as a learning assistant of 2 advanced CS courses, and a research assistant on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb). I developed trading software at [Credit Suisse](https://www.credit-suisse.com/) as a software engineer intern in 2021 summer.
+I am a Senior Software Engineer at [Quora](https://www.quora.com/), work on iOS engineering of GenAI product [Poe](https://poe.com). I enjoy being a generalist engineer, and was a full-stack engineer on Quora Ads products.
+
+During my undergraduate at UNC Chapel Hill, I served as a learning assistant of 2 advanced CS courses, and a research assistant on eye tracking with [Prof. Gary Bishop](https://www.cs.unc.edu/~gb). I developed trading software at [Credit Suisse](https://www.credit-suisse.com/) as a software engineer intern in 2021 summer.

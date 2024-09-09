@@ -19,14 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Software Engineer"
+  title = "Senior Software Engineer"
   company = "Quora"
   company_url = "https://www.quora.com/"
   location = "Mountain View, CA"
   date_start = "2022-03-14"
   date_end = ""
   description = """  
-  Working on ads moderation, programmatic ads
+  Scaling up the Generative AI product Poe, responsible for product, reliability, and dev velocity of iOS app.
+
+  Previously: full-stack engineer on Ads Product, worked on ads moderation, ads consumer experience, programmatic ads, system reliability
   """
 
 [[experience]]
